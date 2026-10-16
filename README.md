@@ -1,6 +1,9 @@
 # 🚗 ระบบบริหารจัดการและดูแลรักษารถยนต์ของบริษัท (Corporate Car Fleet & Maintenance)
 
-เว็บแอปพลิเคชันจัดการทะเบียนรถ บันทึกการซ่อมบำรุง/เช็คระยะ ค่าน้ำมันเชื้อเพลิง การขอใช้รถ/เบิกรถ พร้อมระบบแจ้งเตือนผ่าน **Telegram Bot** อัตโนมัติ โดยใช้ **Google Sheets** เป็นฐานข้อมูล, **Google Apps Script** เป็น Backend API และนำ Frontend ไปติดตั้งโฮสต์บน **GitHub Pages** (บัญชี `clangu89`)
+เว็บแอปพลิเคชันจัดการทะเบียนรถ บันทึกการซ่อมบำรุง/เช็คระยะ ค่าน้ำมันเชื้อเพลิง การขอใช้รถ/เบิกรถ พร้อมระบบแจ้งเตือนผ่าน **Telegram Bot** อัตโนมัติ โดยใช้ **Google Sheets** เป็นฐานข้อมูล, **Google Apps Script** เป็น Backend API และโฮสต์บน **GitHub Pages**
+
+🌐 **เปิดใช้งานเว็บไซต์จริงได้ที่:** [https://clangu89.github.io/car-service/](https://clangu89.github.io/car-service/)  
+📦 **GitHub Repository:** [https://github.com/clangu89/car-service](https://github.com/clangu89/car-service)
 
 ---
 
